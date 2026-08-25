@@ -196,6 +196,10 @@ The reference experiment reports the following results:
 | Testing  | 24.87 |
 
 The testing RMSE indicates the model's forecasting error on previously unseen sequences.
+<img width="890" height="485" alt="image" src="https://github.com/user-attachments/assets/ff2bff98-869d-409c-bff3-5adab4a12902" />
+
+<img width="712" height="480" alt="image" src="https://github.com/user-attachments/assets/aaec1c34-9b45-42cc-aca4-4509640105a8" />
+
 
 > Note: LSTM training can be stochastic, so RMSE values may vary slightly between different runs depending on initialization and the execution environment.
 
